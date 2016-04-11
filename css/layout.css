@@ -1,0 +1,65 @@
+.navbar-brand{
+  font-family: "微软雅黑";
+}
+div.carousel-inner .item,
+.carousel-control,
+div.carousel-inner
+{
+  height: 500px;
+}
+div.carousel-inner{
+  margin-bottom: 50px;
+}
+
+nav.navbar{
+  margin-bottom: 0;
+}
+div.item button{
+  background-color: #286090;
+  font-size: 18px;
+  font-family: "微软雅黑";
+  color: #fff;
+  border: none;
+}
+div.item button:hover{
+  background-color: rgb(12, 114, 198);
+  color: #fff;
+}
+.container{
+  width: 1170px;
+}
+.container .row .col-md-4{
+  text-align: center;
+}
+.container .row .col-md-4 img{
+  vertical-align: middle;
+}
+.container .row .col-md-4 h2{
+  font-weight: normal;
+  font-size: 30px;
+}
+.container .row .col-md-4 p{
+  font-size: 1em;
+}
+hr.feature-divider{
+  margin: 50px 0;
+}
+.tab-content{
+  padding: 30px 0;
+}
+.tab-content .col-md-7 h2 span{
+  font-size: 50px;
+  color: #2a6496;
+}
+.tab-content .col-md-7 h2{
+  margin-top: 100px;
+}
+.tab-content .col-md-7 p{
+  font-size: 21px;
+}
+.tab-content .col-md-5 img{
+  max-width: 100%;
+}
+footer{
+  padding-top: 30px;
+}
